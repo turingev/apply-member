@@ -1,7 +1,6 @@
 {
     "de": {
         "cta": "Jetzt Bewerben",
-        "linkText": "Alle Informationen zum #CCS Chaotischer Catalysator Stipendien",
         "saveMessage": "Wir speichern deine Bewerbung. Das kann ein paar Sekunden dauern.",
         "username": "Name",
         "pronoun": "Pronomen (optional)",
@@ -24,7 +23,6 @@
     },
     "en": {
         "cta": "Apply now",
-        "linkText": "All information on the #CCS Chaotic Catalyst Scholarships",
         "saveMessage": "We save your application. This may take a few seconds.",
         "username": "Name",
         "pronoun": "Pronoun (optional)",

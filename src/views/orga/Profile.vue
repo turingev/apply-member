@@ -3,7 +3,9 @@ import { generateKeypair } from "../../lib/crypto"
 import AuthForm from "../../components/AuthForm.vue";
 import Button from "primevue/button";
 const onGenerateKeypair = async () => {
-  console.log(await generateKeypair())
+  const { exportPrivateKey, exportPublicKey } = await generateKeypair()
+  console.log("private key", JSON.stringify(exportPrivateKey))
+  console.log("public key", JSON.stringify(exportPublicKey))
 }
 </script>
 <template>

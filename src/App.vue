@@ -1,10 +1,8 @@
 <template>
   <router-view></router-view>
   <footer>
-    Das ist ein Projekt des
-    <a href="https://chaostreff-flensburg.de/">Chaostreff Flensburg e.V.</a> |
-    <a href="https://chaostreff-flensburg.de/impressum/">Impressum</a> &
-    <a href="https://chaostreff-flensburg.de/impressum/">Datenschutz</a>
+    <a href="https://github.com/chaostreff-flensburg/pretty-good-proposal">pretty-good-proposal</a> - Ein Projekt des
+    <a href="https://chaostreff-flensburg.de/">Chaostreff Flensburg e.V.</a>
   </footer>
 </template>
 <style scoped>
